@@ -1,7 +1,6 @@
 DataScience
 ==============================
-
-A short description of the project.
+Project-2 To be, or not to be.
 
 Project Organization
 ------------
